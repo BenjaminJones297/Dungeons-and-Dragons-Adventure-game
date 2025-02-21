@@ -1,3 +1,9 @@
+/*
+Benjamin Jones
+ASU CSE 240
+Fall 2023
+*/
+
 #include <iostream>
 #include <time.h>
 #include <cstdlib>
